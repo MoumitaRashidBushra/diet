@@ -1,0 +1,180 @@
+{
+    "recommendations": [
+        {
+            "id": 1,
+            "bmiRange": "Underweight",
+            "gender": "male",
+            "foods": {
+                "breakfast": [
+                    "Oatmeal",
+                    "Fruit Smoothie",
+                    "Boiled Egg"
+                ],
+                "lunch": [
+                    "Grilled Chicken Salad",
+                    "Quinoa Bowl",
+                    "Greek Yogurt"
+                ],
+                "dinner": [
+                    "Salmon with Vegetables",
+                    "Sweet Potato Mash",
+                    "Steamed Broccoli"
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "bmiRange": "Normal Weight",
+            "gender": "male",
+            "foods": {
+                "breakfast": [
+                    "Greek Yogurt with Berries",
+                    "Whole Grain Toast",
+                    "Banana"
+                ],
+                "lunch": [
+                    "Vegetable Stir-Fry",
+                    "Brown Rice",
+                    "Chicken Wrap"
+                ],
+                "dinner": [
+                    "Baked Cod with Broccoli",
+                    "Cauliflower Mash",
+                    "Mixed Vegetables"
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "bmiRange": "Overweight",
+            "gender": "male",
+            "foods": {
+                "breakfast": [
+                    "Avocado Toast",
+                    "Protein Smoothie",
+                    "Granola with Milk"
+                ],
+                "lunch": [
+                    "Turkey and Avocado Wrap",
+                    "Quinoa Salad",
+                    "Mixed Nuts"
+                ],
+                "dinner": [
+                    "Grilled Salmon with Asparagus",
+                    "Mashed Cauliflower",
+                    "Roasted Sweet Potatoes"
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "bmiRange": "Obese",
+            "gender": "male",
+            "foods": {
+                "breakfast": [
+                    "Veggie Omelette",
+                    "Smoothie Bowl",
+                    "Whole Wheat Pancakes"
+                ],
+                "lunch": [
+                    "Turkey Burger with Sweet Potato Fries",
+                    "Vegetarian Burrito Bowl",
+                    "Chicken Alfredo Pasta"
+                ],
+                "dinner": [
+                    "Grilled Vegetable Stir-Fry",
+                    "Salmon with Quinoa",
+                    "Shrimp and Broccoli Stir-Fry"
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "bmiRange": "Underweight",
+            "gender": "female",
+            "foods": {
+                "breakfast": [
+                    "Yogurt Parfait",
+                    "Fruit Salad",
+                    "Almond Butter Toast"
+                ],
+                "lunch": [
+                    "Vegetarian Wrap",
+                    "Quinoa Salad",
+                    "Hummus with Veggies"
+                ],
+                "dinner": [
+                    "Stir-Fried Tofu with Vegetables",
+                    "Chickpea Salad",
+                    "Sweet Potato Soup"
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "bmiRange": "Normal Weight",
+            "gender": "female",
+            "foods": {
+                "breakfast": [
+                    "Smoothie Bowl",
+                    "Whole Grain Toast with Avocado",
+                    "Chia Pudding"
+                ],
+                "lunch": [
+                    "Grilled Chicken Salad",
+                    "Brown Rice Bowl",
+                    "Caprese Sandwich"
+                ],
+                "dinner": [
+                    "Baked Salmon with Quinoa",
+                    "Roasted Vegetable Pasta",
+                    "Stuffed Bell Peppers"
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "bmiRange": "Overweight",
+            "gender": "female",
+            "foods": {
+                "breakfast": [
+                    "Green Smoothie",
+                    "Whole Wheat Pancakes with Berries",
+                    "Avocado Toast"
+                ],
+                "lunch": [
+                    "Turkey and Veggie Wrap",
+                    "Quinoa Bowl",
+                    "Greek Salad"
+                ],
+                "dinner": [
+                    "Baked Cod with Asparagus",
+                    "Cauliflower Fried Rice",
+                    "Roasted Brussels Sprouts"
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "bmiRange": "Obese",
+            "gender": "female",
+            "foods": {
+                "breakfast": [
+                    "Veggie Omelette",
+                    "Mixed Berry Smoothie",
+                    "Whole Wheat Pancakes"
+                ],
+                "lunch": [
+                    "Grilled Chicken Salad",
+                    "Quinoa Bowl",
+                    "Avocado Toast"
+                ],
+                "dinner": [
+                    "Stir-Fried Tofu with Vegetables",
+                    "Cauliflower Fried Rice",
+                    "Roasted Sweet Potatoes"
+                ]
+            }
+        }
+    ]
+}
